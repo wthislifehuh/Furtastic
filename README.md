@@ -7,5 +7,12 @@ Developed a fully functional pet management website named Furtastic. The app is 
 
 
 ## Showcase
-![Project Screenshot](https://github.com/wthislifehuh/Furtastic/blob/main/assets/image.png?raw=true)
+![Project Screenshot](https://github.com/wthislifehuh/Furtastic/blob/main/assets/furtastic_main_page.jpg)
 
+![Project Screenshot](https://github.com/wthislifehuh/Furtastic/blob/main/assets/furtastic_login.jpg)
+
+![Project Screenshot](https://github.com/wthislifehuh/Furtastic/blob/main/assets/furtastic_homepage.jpg)
+
+![Project Screenshot](https://github.com/wthislifehuh/Furtastic/blob/main/assets/furtastic_to_do.jpg)
+
+![Project Screenshot](https://github.com/wthislifehuh/Furtastic/blob/main/assets/furtastic_faq.jpg)
